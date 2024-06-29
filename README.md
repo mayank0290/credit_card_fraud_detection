@@ -5,7 +5,7 @@
 
 * The dataset contains transactions spanning two days.
 
-* The dataset is taken from [kaggle]('https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+* The dataset is taken from [kaggle]('https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud')
   
 * There are 81 fraud cases out of a total of 17,918 transactions.
 
