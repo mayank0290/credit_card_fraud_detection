@@ -33,7 +33,7 @@ Keep in mind that the dataset is highly unbalanced, making fraud detection chall
 
 **SUMMARY OF STEPS**:
 
-* **DATA LOADING & PREPROCESSING**:
+**DATA LOADING & PREPROCESSING**:
 
 Libraries Used:
 
