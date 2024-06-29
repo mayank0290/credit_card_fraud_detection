@@ -7,7 +7,7 @@
 
 * There are 81 fraud cases out of a total of 17,918 transactions.
 
-* The positive class (frauds) represents only 0.172% of all transactions.
+* The positive class (frauds) in the dataset constitutes approximately 0.45% of the total transactions.
 
 
 **Features**:
