@@ -32,7 +32,8 @@ Keep in mind that the dataset is highly unbalanced, making fraud detection chall
 ## CREDIT CARD FRAUD DETECTION USING LOGISTIC REGRESSION 🛡️
 
 **SUMMARY OF STEPS**:
-Data Loading and Preprocessing:
+
+* **DATA LOADING & PREPROCESSING**:
 
 Libraries Used:
 
